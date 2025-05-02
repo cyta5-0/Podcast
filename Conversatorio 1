@@ -1,0 +1,43 @@
+Volver a generar el archivo de texto con el contenido del guion para el podcast
+guion_texto = """ Conversatorio CyTA-ChatGPT Episodio 1: “IA-Humana y Prompts: del dato a la sabiduría”
+
+INTRODUCCIÓN (Conductor)
+
+Bienvenidos al Conversatorio CyTA-ChatGPT, un espacio para explorar el diálogo entre ciencia, inteligencia artificial y humanidad. Este es nuestro episodio 1, titulado: “IA-Humana y Prompts: del dato a la sabiduría”. Vamos a iniciar este viaje con una pregunta fundamental: ¿Qué es la inteligencia artificial y cómo podemos trabajar con ella desde la investigación científica?
+
+ChatGPT responde (voz sintética)
+
+La inteligencia artificial, o IA, es la capacidad de una máquina para imitar funciones cognitivas humanas como aprender, razonar o resolver problemas. Existen diferentes tipos de IA:
+
+La IA débil, que realiza tareas específicas.
+La IA general, aún en desarrollo, capaz de razonar como un humano.
+Y la IA generativa, como yo, que produce contenido nuevo a partir de datos y lenguaje. En ciencia, la IA puede ser una herramienta clave para curar información, generar hipótesis, redactar artículos, y más. Pero todo comienza con el prompt: la manera en que pensamos y le hablamos a la IA.
+Conductor: ¿Qué es un prompt y por qué es tan importante?
+
+ChatGPT responde:
+
+Un prompt es una instrucción que le das a la IA para que genere una respuesta. Pero no es solo una orden técnica: es una forma de pensamiento. Un buen prompt es claro, contextualizado y dirigido a un objetivo. Es, en esencia, una conversación estructurada con una máquina. En ciencia, usamos prompts para redactar, para pensar, para validar ideas y para explorar nuevas hipótesis.
+
+Conductor: ¿Y cómo se aplica esto en los trabajos científicos que venimos haciendo?
+
+ChatGPT responde:
+
+En CyTA, hemos desarrollado varios casos de uso:
+
+Prompts para revisión de literatura científica.
+Prompts para generar hipótesis desde artículos indexados.
+Prompts para escribir artículos con base empírica.
+Y hasta para co-escribir libros con IA, como hicimos en BookIA. Todo esto se encuentra curado y documentado en nuestros espacios abiertos como GitHub y en la propia web de CyTA.
+Conductor: ¿Qué viene en los próximos episodios?
+
+En los próximos capítulos, vamos a recorrer juntos distintos tipos de prompts:
+
+Los que resumen, los que explican, los que cuestionan, los que ayudan a escribir o revisar. También vamos a mostrar cómo se curan científicamente las respuestas de la IA, y cómo desarrollamos sistemas expertos en CyTA.
+CIERRE
+
+Esto fue el primer episodio del Conversatorio CyTA-ChatGPT: “IA-Humana y Prompts: del dato a la sabiduría”. Si querés saber más, visitá cyta.com.ar o accedé a nuestros espacios de curación y código en GitHub/CyTA-IA. ¡Hasta la próxima! """
+
+Guardar el archivo de texto
+file_path = "/mnt/data/Conversatorio_CyTA_Episodio1.txt" with open(file_path, "w", encoding="utf-8") as file: file.write(guion_texto)
+
+file_path
