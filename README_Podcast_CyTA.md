@@ -71,3 +71,11 @@ Bienvenidos al repositorio oficial del **Podcast CyTA-ChatGPT**, un espacio de d
 - 🌐 [Sitio web de CyTA](https://www.cyta.com.ar)
 - 🎙️ [Podcast en CyTA](https://www.cyta.com.ar/podcast/podcast.html)
 - 📚 [Repositorio de IA aplicada a CyTA](https://github.com/cyta5-0/cyta-ia-publication)
+
+TEMA: De Putnam a la IA cooperativa
+
+Resumen:
+El episodio se centra en la visión de Hilary Putnam sobre la imbricación analítico-sintética y la redefinición del valor en el conocimiento. Se propone abordar cómo en la investigación científica el problema se formula como una pregunta cuyo valor está condicionado por el objetivo a alcanzar, y cómo ese objetivo no es dado sino que debe ser construido. En diálogo con la IA, se explora cómo los prompts pueden colaborar en este proceso creativo, reflexivo y epistémico.
+
+Eje fundante del proyecto: “Redefinir lo que vale la pena preguntar”
+
